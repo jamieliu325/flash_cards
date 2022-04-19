@@ -2,7 +2,6 @@ from tkinter import *
 import random
 import pandas
 
-
 # set up
 current_card = {}
 to_learn = {}
